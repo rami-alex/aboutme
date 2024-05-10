@@ -1,0 +1,15 @@
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+#carouselExampleCaptions > div.carousel-inner > div.carousel-item.active > div > h5{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#carouselExampleCaptions > div.carousel-inner > div.carousel-item.active > div > p{
+    font-size: large;
+    font-weight: bold;
+}
